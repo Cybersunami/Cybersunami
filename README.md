@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Misa. 
 - 👀 I’m a self taught programmer.
 - 🌱 I’m currently pursuing my Bachelor of Science in Computer Software Engineering.
-- 💞️ I’m looking to build immersive and interactive visuals.
+- 💞️ I love building immersive and interactive visuals.
 - 📫 How to reach me: misahnaw@gmail.com
 - ⚡ Fun fact: I have a soft spot for game development.
 
