@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Misa
-- 👀 I’m interested in creating web applications.
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on programming projects. 
+- 👋 Hi, I’m Misa. 
+- 👀 I’m a self taught programmer.
+- 🌱 I’m currently pursuing my Bachelor of Science in Computer Software Engineering.
+- 💞️ I’m looking to build immersive and interactive visuals.
 - 📫 How to reach me: misahnaw@gmail.com
-- 😄 Pronouns: i am Her
-- ⚡ Fun fact: i am African/Caribbean American and half Bengali.
+- ⚡ Fun fact: I have a soft spot for game development.
 
 <!---
 Cybersunami/Cybersunami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
