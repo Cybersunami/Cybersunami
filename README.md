@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Misa. 
 - 👀 I’m a self taught programmer.
-- 🌱 I’m currently pursuing my Bachelor of Science in Computer Software Engineering.
-- 💞️ I love building immersive and interactive visuals.
+- 🌱 New Grad.
+- 💞️ I love all things technology.
 - 📫 How to reach me: misahnaw@gmail.com
-- ⚡ Fun fact: I have a soft spot for game development.
+- ⚡ Fun fact: Grad school, up next.
 
 <!---
 Cybersunami/Cybersunami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
